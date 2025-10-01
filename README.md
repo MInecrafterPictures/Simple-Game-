@@ -7,6 +7,6 @@ Everything in the remaster is created by ai, both Claude 3.7 Sonnet for my remas
 
 
 # Copyright notice
-I do not own the original ai generated game, will credit once the creator behind the ai generated game once found.
+I do not own the original ai generated game, will credit once the creator behind the original Simple Game is found.
 
 All rights reserved to their respective owners.
